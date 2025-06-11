@@ -1,7 +1,3 @@
-Here’s your complete README based on the information you provided:
-
----
-
 # Boda-Fare, Chaii and Mobile-money Fee Estimator
 
 #### A simple tool to estimate transport (boda fare), snack (chaii), and mobile money transaction costs | Version: 4/27/2025
